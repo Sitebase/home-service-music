@@ -11,15 +11,10 @@
     "url": "git+https://github.com/Sitebase/ads-proxy.git"
   },
   "keywords": [
-    "ads",
-    "beckhoff",
-    "plc",
-    "home",
-    "automation",
-    "domotica",
-    "proxy",
-    "mqtt",
-    "openhab"
+    "audio",
+    "airplay",
+    "sonos",
+    "music"
   ],
   "author": "Wim Mostmans (http://www.sitebase.be/)",
   "license": "ISC",
@@ -28,11 +23,7 @@
   },
   "homepage": "https://github.com/Sitebase/ads-proxy#readme",
   "dependencies": {
-    "ads": "^0.1.4",
     "airsonos": "^0.2.5",
-    "express": "^4.13.3",
-    "mqtt": "^1.4.3",
-    "request": "^2.65.0",
-    "sonos": "^0.8.0"
+    "express": "^4.13.3"
   }
 }
