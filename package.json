@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Sitebase/ads-proxy#readme",
   "dependencies": {
-    "airsonos": "^0.2.5",
+    "airsonos": "^0.2.6",
     "express": "^4.13.3"
   }
 }
